@@ -3,6 +3,6 @@
 
 ```csharp
 github.com/jinxzexe
-dc $ jinxz69
+dc $ j1nxz69
 ig $ temo.outlaws
 ```
